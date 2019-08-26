@@ -1,3 +1,4 @@
+//Program of Applets
 import java.applet.*;
 import java.awt.*;
 
