@@ -1,3 +1,4 @@
+//Implementation of class with example of Complex class
 class Complex
 {
  private float real;
