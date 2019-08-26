@@ -1,3 +1,4 @@
+//Program of Abstract Method in Inheritance.
 abstract class Shape
 {
  protected int left,top,right,bottom;
